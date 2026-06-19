@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**landsley-tech/landsley-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Landsley, a Cyber Security and Digital Forensics Undergraduate
 
-Here are some ideas to get you started:
+I design and create whatever comes to mind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I get an idea, I try and make it work
+
+
+Fun Facts :
+- I have a dog
+- I hate coffee
+- Supernatural is my favorite show
+- I like gaming and motorsport
