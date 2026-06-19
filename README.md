@@ -8,7 +8,6 @@ If I get an idea, I try and make it work
 
 
 Fun Facts :
-- I have a dog
-- I hate coffee
+- I drink too much monster
 - Supernatural is my favorite show
 - I like gaming and motorsport
