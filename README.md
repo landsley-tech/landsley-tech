@@ -1,12 +1,11 @@
-## Hi there 👋
+## Hi, I'm Landsley 👋
 
-Im Landsley, a Cyber Security and Digital Forensics Undergraduate
+Cyber Security & Digital Forensics undergraduate at [University], looking for a
+**2027 placement year** in [security operations / digital forensics / incident response].
 
-I design and create whatever comes to mind.
+🔍 **Interests:** digital forensics, [malware analysis / blue team / pentesting]
+🛠️ **Tools & languages:** C, Python, Linux, [Wireshark, Autopsy, Nmap...]
+🎯 **Currently:** [e.g. working through TryHackMe's SOC Level 1 path]
+📫 **Contact:** [LinkedIn link / email]
 
-If I get an idea, I try and make it work
-
-
-Fun Facts :
-- My Favorite Show at the moment is supernatural
-- I like gaming and motorsport
+**Outside tech:** gaming, motorsport, and rewatching Supernatural.
